@@ -1,1 +1,1 @@
-Patient Table: https://github.com/facebook/create-react-app
+Patient Table: https://patient-table-task.netlify.app/
